@@ -1,3 +1,4 @@
+![Computer](https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470)
 # Interesting-Collection-of-Computer-Science
 A daily collection of interesting projects, courses, websites, etc.
 
