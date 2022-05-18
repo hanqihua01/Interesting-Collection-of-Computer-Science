@@ -25,6 +25,10 @@ links:
 - [Vietnamese](https://missing-semester-vn.github.io/)
 
 ### CODE2VEC
+CODE2VEC: Learing  Distributed Representations of Code.
+
+links:
+- [CODE2VEC](https://code2vec.org/)
 
 ### Coding Interview University
 The items listed here will prepare you well for a technical interview at just about any software company, including the giants: Amazon, Facebook, Google, and Microsoft.
