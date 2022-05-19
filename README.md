@@ -6,6 +6,7 @@ A daily collection of interesting projects, courses, websites, etc.
 - [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [CODE2VEC](#code2vec)
 - [Coding Interview University](#coding-interview-university)
+- [HelloGitHub](#hellogithub)
 
 ### The Missing Semester of Your CS Education
 Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
@@ -36,3 +37,9 @@ The items listed here will prepare you well for a technical interview at just ab
 
 links:
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+### HelloGitHub
+HelloGitHub shares interesting, entry-level open-source projects on GitHub. The content is released on the 28th of each month, including: interesting, entry-level open-source projects, open-source books, practical projects, enterprise projects, making you find the glamor of open-source and fall in love with open-source!
+
+links:
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
