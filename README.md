@@ -7,6 +7,7 @@ A daily collection of interesting projects, courses, websites, etc.
 - [CODE2VEC](#code2vec)
 - [Coding Interview University](#coding-interview-university)
 - [HelloGitHub](#hellogithub)
+- [AweSome C++](#awesome-c)
 
 ### The Missing Semester of Your CS Education
 Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
@@ -43,3 +44,9 @@ HelloGitHub shares interesting, entry-level open-source projects on GitHub. The 
 
 links:
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+
+### Awesome C++
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
+links:
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [Awesome C++ 中文版](https://github.com/jobbole/awesome-cpp-cn)
