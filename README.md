@@ -8,6 +8,7 @@ A daily collection of interesting projects, courses, websites, etc.
 - [Coding Interview University](#coding-interview-university)
 - [HelloGitHub](#hellogithub)
 - [AweSome C++](#awesome-c)
+- [Recommended Paper](#recommended-paper)
 
 ### The Missing Semester of Your CS Education
 Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
@@ -50,3 +51,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 links:
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
 - [Awesome C++ 中文版](https://github.com/jobbole/awesome-cpp-cn)
+
+### Recommended Paper
+- [Is Mutation an Appropriate Tool for Testing Experiments?](https://dl.acm.org/doi/10.1145/1062455.1062530)
